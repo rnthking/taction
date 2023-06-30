@@ -1,1 +1,1 @@
-print("hello world")
+tttprint("hello world")
